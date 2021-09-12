@@ -6,6 +6,4 @@ refren1.txt
 
 zwrotka2 
 
-Ref
-Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
-Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente over and over again... 
+refren2.txt 
