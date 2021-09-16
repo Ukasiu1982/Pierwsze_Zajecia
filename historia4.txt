@@ -1,0 +1,16 @@
+commit 65329aa6d5c8c38928ac7b65f22860c9b93730fa
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:41:38 2021 +0200
+
+    utoworzono plik zwrotka2.txt
+
+diff --git a/zwrotka2.txt b/zwrotka2.txt
+new file mode 100644
+index 0000000..a5c2d38
+--- /dev/null
++++ b/zwrotka2.txt
+@@ -0,0 +1,4 @@
++ZW2
++Per le strade di Pechino erano giorni di maggio tra noi si scherzava a raccogliere ortiche. 
++Non sopporto i cori russi la musica finto rock la new wave italiana il free jazz punk inglese. 
++Neanche la nera africana. 

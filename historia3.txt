@@ -1,0 +1,16 @@
+commit 944aa0d6d4543061f8b79abe504e78f2f0e82a82
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:27:50 2021 +0200
+
+    utworzono plik zwrotka1
+
+diff --git a/zwrotka1.txt b/zwrotka1.txt
+new file mode 100644
+index 0000000..a92db72
+--- /dev/null
++++ b/zwrotka1.txt
+@@ -0,0 +1,4 @@
++ZW1
++Una vecchia bretone con un cappello e un ombrello di carta di riso e canna di bambů.
++Capitani coraggiosi furbi contrabbandieri macedoni. 
++Gesuiti euclidei vestiti come dei bonzi per entrare a corte degli imperatori della dinastia dei Ming

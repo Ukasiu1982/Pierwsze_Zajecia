@@ -1,0 +1,129 @@
+commit 3f494c4fc5dccf56f7620955a8f8ba8522d99995
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:43:17 2021 +0200
+
+    zastapiono refren 2 refren2.txt
+
+diff --git a/pioseneczka.txt b/pioseneczka.txt
+index 995c795..28e405e 100644
+--- a/pioseneczka.txt
++++ b/pioseneczka.txt
+@@ -6,6 +6,4 @@ refren1.txt
+ 
+ zwrotka2 
+ 
+-Ref
+-Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
+-Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente over and over again... 
++refren2.txt 
+
+commit 991b2582b8f8f182071617e07f1731f39c07aac3
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:36:48 2021 +0200
+
+    zastąpiono 2. zwrotke zwrotka2.txt
+
+diff --git a/pioseneczka.txt b/pioseneczka.txt
+index 5db6383..995c795 100644
+--- a/pioseneczka.txt
++++ b/pioseneczka.txt
+@@ -3,10 +3,8 @@ zwrotka1.txt
+ 
+ refren1.txt
+  
+-ZW2
+-Per le strade di Pechino erano giorni di maggio tra noi si scherzava a raccogliere ortiche. 
+-Non sopporto i cori russi la musica finto rock la new wave italiana il free jazz punk inglese. 
+-Neanche la nera africana. 
++
++zwrotka2 
+ 
+ Ref
+ Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
+
+commit 36bfff3c30fa33d973484a8880615f965e0ffda8
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:31:50 2021 +0200
+
+    usunieto refren i zastapiono refren1
+
+diff --git a/pioseneczka.txt b/pioseneczka.txt
+index 332d3ce..5db6383 100644
+--- a/pioseneczka.txt
++++ b/pioseneczka.txt
+@@ -1,8 +1,7 @@
+ zwrotka1.txt
+ 
+-Ref
+-Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
+-Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente over and over again...
++
++refren1.txt
+  
+ ZW2
+ Per le strade di Pechino erano giorni di maggio tra noi si scherzava a raccogliere ortiche. 
+
+commit 8d318ace4549b748cd34c92ba697263b74b9fd42
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:29:26 2021 +0200
+
+    dodano zwrotka1 do pliku
+
+diff --git a/pioseneczka.txt b/pioseneczka.txt
+index 14bda8d..332d3ce 100644
+--- a/pioseneczka.txt
++++ b/pioseneczka.txt
+@@ -1,3 +1,4 @@
++zwrotka1.txt
+ 
+ Ref
+ Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
+
+commit 98c0f1d8fc848b2e5d64342e990038e0150ea0c0
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:25:41 2021 +0200
+
+    1 zwrotka out
+
+diff --git a/pioseneczka.txt b/pioseneczka.txt
+index 5572c69..14bda8d 100644
+--- a/pioseneczka.txt
++++ b/pioseneczka.txt
+@@ -1,7 +1,3 @@
+-W1
+-Una vecchia bretone con un cappello e un ombrello di carta di riso e canna di bambů.
+-Capitani coraggiosi furbi contrabbandieri macedoni. 
+-Gesuiti euclidei vestiti come dei bonzi per entrare a corte degli imperatori della dinastia dei Ming. 
+ 
+ Ref
+ Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
+
+commit d2319cfd7d61e9da89406fa869b59196f32f5a68
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 13:21:18 2021 +0200
+
+    pierwsze zadanie
+
+diff --git a/pioseneczka.txt b/pioseneczka.txt
+new file mode 100644
+index 0000000..5572c69
+--- /dev/null
++++ b/pioseneczka.txt
+@@ -0,0 +1,17 @@
++W1
++Una vecchia bretone con un cappello e un ombrello di carta di riso e canna di bambů.
++Capitani coraggiosi furbi contrabbandieri macedoni. 
++Gesuiti euclidei vestiti come dei bonzi per entrare a corte degli imperatori della dinastia dei Ming. 
++
++Ref
++Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
++Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente over and over again...
++ 
++ZW2
++Per le strade di Pechino erano giorni di maggio tra noi si scherzava a raccogliere ortiche. 
++Non sopporto i cori russi la musica finto rock la new wave italiana il free jazz punk inglese. 
++Neanche la nera africana. 
++
++Ref
++Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
++Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente over and over again... 

@@ -1,0 +1,15 @@
+commit 4aaa222180b8a227397c659fa072354d955060ba
+Author: Lukasz <ukaszek1001@gmail.com>
+Date:   Sun Sep 12 15:02:33 2021 +0200
+
+    zmieniono nazwe pliku z refrenem zw na ten sam tekst
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..055d401
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,3 @@
++Ref
++Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente avrei bisogno di... 
++Cerco un centro di gravitŕ permanente che non mi faccia mai cambiare idea sulle cose sulla gente over and over again...
